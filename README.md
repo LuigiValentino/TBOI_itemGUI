@@ -1,5 +1,6 @@
 
 # TBOI Item GUI
+<img src="GUI_sources/preview_gui.png">
 
 This project contains a program written in python that allows analyzing items that the user hovers over in TBOI and provides information extracted from the TBOI wiki.
 
@@ -20,3 +21,5 @@ The program is written entirely in Python with dependencies such as:
 - tkinter
 
 Item information is scraped 100% from the <a href="https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki">TBOI wiki</a>
+
+
